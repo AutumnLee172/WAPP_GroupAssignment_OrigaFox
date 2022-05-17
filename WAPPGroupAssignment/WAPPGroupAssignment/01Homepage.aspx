@@ -18,7 +18,7 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>	
 
 <!--Title and Web logo-->
-	<title>Origafox | Homepage </title>
+	<title>Origafox | Homepage TESTING TESTING</title>
 	<link rel="icon" href="Image/weblogo.png" type="png"/>	
 </head>
 <body>
