@@ -95,9 +95,7 @@
 			ac lacinia eros sollicitudin tincidunt. Sed ut convallis risus, sed rutrum elit. Donec semper, velit 
 			ut rutrum gravida, urna libero luctus libero, dapibus venenatis ante mauris id ex. Aliquam molestie odio nec 
 		</div>
-			<a href="3. About Us.html"><button type="button" class="btn btn-primary">Read More</button>
-        <asp:Button ID="Button1" runat="server" Text="Button" />
-        </a>	</div>
+			<a href="3. About Us.html"><button type="button" class="btn btn-primary">Read More</button></a>	</div>
 	</div>
 	</div>
 	</section>
