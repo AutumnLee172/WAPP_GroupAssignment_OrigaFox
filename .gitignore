@@ -44,3 +44,7 @@ WAPPGroupAssignment/.vs/WAPPGroupAssignment/v17/.suo
 *.pdb
 *.dll
 *.sqlite
+*.config
+WAPPGroupAssignment/.vs/WAPPGroupAssignment/v17/.suo
+*.cache
+*.cache
