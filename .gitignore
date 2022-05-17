@@ -36,3 +36,11 @@ msbuild.wrn
 WAPPGroupAssignment/.vs/WAPPGroupAssignment/v17/.suo
 *.cache
 *.sqlite
+*.cache
+*.pdb
+*.dll
+*.txt
+*.cache
+*.pdb
+*.dll
+*.sqlite
