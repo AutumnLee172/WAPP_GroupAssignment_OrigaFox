@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <!-- external css file -->
-	<link rel="stylesheet" href="Navbarcss.css" />
+	<link rel="stylesheet" href="Navbar.css" />
 <!-- Font Awesome - ICONS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 	
