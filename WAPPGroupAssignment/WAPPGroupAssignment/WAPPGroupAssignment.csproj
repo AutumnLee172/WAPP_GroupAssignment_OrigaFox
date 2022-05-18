@@ -68,7 +68,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="01Homepage.aspx" />
+    <Content Include="AdminNavBar.aspx" />
+    <Content Include="CreatorNavBar.aspx" />
     <Content Include="homepagecss.css" />
+    <Content Include="Navbarcss.css" />
+    <Content Include="StudentNavbar.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -79,7 +83,28 @@
     <Compile Include="01Homepage.aspx.designer.cs">
       <DependentUpon>01Homepage.aspx</DependentUpon>
     </Compile>
+    <Compile Include="AdminNavBar.aspx.cs">
+      <DependentUpon>AdminNavBar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminNavBar.aspx.designer.cs">
+      <DependentUpon>AdminNavBar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CreatorNavBar.aspx.cs">
+      <DependentUpon>CreatorNavBar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CreatorNavBar.aspx.designer.cs">
+      <DependentUpon>CreatorNavBar.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StudentNavbar.aspx.cs">
+      <DependentUpon>StudentNavbar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StudentNavbar.aspx.designer.cs">
+      <DependentUpon>StudentNavbar.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
