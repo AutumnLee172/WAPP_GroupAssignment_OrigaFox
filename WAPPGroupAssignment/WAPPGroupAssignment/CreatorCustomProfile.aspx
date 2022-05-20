@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CustomProfile.aspx.cs" Inherits="WAPPGroupAssignment.CustomProfile" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CreatorCustomProfile.aspx.cs" Inherits="WAPPGroupAssignment.CustomProfile" %>
 
 <!DOCTYPE html>
 
@@ -6,7 +6,7 @@
 <head runat="server">
     <title></title>
     <!-- external css file -->
-	<link rel="stylesheet" href="customprofile.css" />
+	<link rel="stylesheet" href="creatorcustomprofile.css" />
     <style type="text/css">
         .auto-style1 {
             width: 100%;
