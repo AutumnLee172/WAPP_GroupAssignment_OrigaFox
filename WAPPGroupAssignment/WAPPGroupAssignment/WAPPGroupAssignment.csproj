@@ -68,6 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="01Homepage.aspx" />
+    <Content Include="CustomProfile.aspx" />
+    <Content Include="customprofile.css" />
     <Content Include="homepagecss.css" />
     <Content Include="PotentialUserNavBar.aspx" />
     <Content Include="Web.config" />
@@ -79,6 +81,13 @@
     </Compile>
     <Compile Include="01Homepage.aspx.designer.cs">
       <DependentUpon>01Homepage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomProfile.aspx.cs">
+      <DependentUpon>CustomProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomProfile.aspx.designer.cs">
+      <DependentUpon>CustomProfile.aspx</DependentUpon>
     </Compile>
     <Compile Include="PotentialUserNavBar.aspx.cs">
       <DependentUpon>PotentialUserNavBar.aspx</DependentUpon>
